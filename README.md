@@ -2,7 +2,7 @@
 <!-- <p align="left"> -->
   <img src="https://github-readme-stats.vercel.app/api?username=lelehub&show_icons=true&theme=tokyonight" alt="my github stats" width="450"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelehub&layout=compact&theme=tokyonight" alt="languages" height="177">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelehub&layout=compact&theme=tokyonight" alt="languages" height="177"> -->
 <!-- </p> -->
 <!--  skill badge 技能徽章 -->
 💪 正在学习
